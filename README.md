@@ -5,3 +5,5 @@ This application shows the capabilities of implementing 3D into an interactive e
 Live App: https://3dportfolio-react-page.vercel.app
 <br>
 <br>
+
+![image](https://github.com/JDsabo/sphereofwisdom-javascript-app/assets/82731778/08ed59fd-62b3-42e6-a34c-f26c11939303)
