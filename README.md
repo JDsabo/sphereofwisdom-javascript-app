@@ -2,7 +2,7 @@
 This application shows the capabilities of implementing 3D into an interactive experience that reflects visual designs.
 <br>
 <br>
-Live App: https://sphereofwisdom-javascript-app.vercel.app/
+Live App: https://cybernotice-css-web.vercel.app/
 <br>
 <br>
 
