@@ -6,4 +6,4 @@ Live App: https://sphereofwisdom-javascript-app.vercel.app/
 <br>
 <br>
 
-![image](https://github.com/JDsabo/sphereofwisdom-javascript-app/assets/82731778/08ed59fd-62b3-42e6-a34c-f26c11939303)
+![Screenshot 2024-07-01 192137](https://github.com/JDsabo/sphereofwisdom-javascript-app/assets/82731778/b0454d86-54c9-4f15-b9c2-daa8d2b20034)
